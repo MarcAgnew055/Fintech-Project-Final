@@ -7,7 +7,7 @@
 - ADA’s  trend and landmarks, like I briefly mentioned above, ADA looks at 3rd world countries to support "a codebase offering an unrivaled level of assurance." With that being said Africa is a huge country that ADA has been in touch with and working with. As many people could notice, Africa is not in good standing nore do they have any sort of banking or governmental system that actually works like it should. ADA has started a trend in Africa first, to give everyone access to the internet and a cold storage device with a local CBDC. This brough 4 Million Africans internet and a way to do proper business transactions and to properly build wealth that can not be simply taken from said person. I consider this a trend because many people can understand the concept of Crypto-Currency and how large centralized systems DO NOT want these ecosystems to grow and revamp. Thus making it 100x easier to start building a governmental system somewhere that will welcome new change, not somewhere that shoves it down and says NO by putting restrictions and regulations on it.
 
 # Competitors
-- The Competitors would be any smart contract, proof of stake, layer 1 protocol.
+## The Competitors would be any smart contract, proof of stake, layer 1 protocol.
 - SOL
 - ETH
 - AVAX
